@@ -22,6 +22,6 @@
 <div align="center" style"display: inline_block"><br>
   <img align"center" alt="Alexandre-Python" height=60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" />
   <img align"center" alt="Alexandre-Java" height=60" width="60" src="https://raw.githubusercontent.com/AlexandreFCosta/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Java-Dark.svg" /> 
-  <img align"center" alt="Alexandre-mysql" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" />
+  <img align"center" alt="Alexandre-mysql" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" />
 </div>
 <br>
