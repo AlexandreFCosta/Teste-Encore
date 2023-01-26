@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class MakeChange {
+class MakeChanger {
     public static void main(String[] args) {
         int[] denoms = { 25, 10, 5, 1 };
         int[] vals = new int[denoms.length];
