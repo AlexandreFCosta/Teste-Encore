@@ -1,6 +1,7 @@
 <div align=center>
-<img width="40%" height="auto" src="https://www.encora.com/hubfs/Website_Assets/brand/encora-logo.svg"/>
+<img width="45%" height="auto" src="https://www.encora.com/hubfs/Website_Assets/brand/encora-logo.svg"/>
   </div> 
+  <br>
 
 ##
 
