@@ -16,4 +16,4 @@ def makeChange(n):
 
 
 
-makeChange(15)
+makeChange(n)
